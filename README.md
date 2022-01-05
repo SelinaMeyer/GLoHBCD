@@ -1,4 +1,4 @@
-This repository makes available code to replicate the *German Language of Health Behaviour Change Dataset (GLoHBCD)* and perform some Machine Learning experiments on the data. 
+This repository makes available code to replicate the **German Language of Health Behaviour Change Dataset (GLoHBCD)** and perform some Machine Learning experiments on the data. 
 
 ## How can I replicate the dataset?
 
