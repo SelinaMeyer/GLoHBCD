@@ -11,7 +11,7 @@ Then, after navigating to the crawler, execute:
 scrapy crawl AbnehmenOhneOp -O abnehmenOhneOp.json
 scrapy crawl PsychoTherapie -O psychoTherapie.json
 
-you will get two json-files. Which can be processed and mapped to corresponding annotations in the Preprocessing.ipynb. In addition to the complete dataset, the Preprocessing.ipynb also produces all files later needed for machine learning experiments.
+you will get two json-files, which can be processed and mapped to corresponding annotations in the Preprocessing.ipynb. In addition to the complete dataset, the Preprocessing.ipynb also produces all files later needed for the machine learning experiments.
 
 ## What do the labels mean?
 
