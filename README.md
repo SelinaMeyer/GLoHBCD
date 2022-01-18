@@ -2,11 +2,11 @@ This repository makes available code to replicate the **German Language of Healt
 
 ## How can I replicate the dataset?
 
-You can find the webcrawler and the script to preprocess the data in the Crawler folder. To run the crawler you will need to isntall scrapy:
+You can find the webcrawler and the script to preprocess the data in the Crawler folder. To run the crawler you will need to install scrapy:
 
 pip install scrapy
 
-Then, after navigating to the crawler, execute:
+Then, after navigating to the Crawler-folder, execute:
 
 scrapy crawl AbnehmenOhneOp -O abnehmenOhneOp.json
 scrapy crawl PsychoTherapie -O psychoTherapie.json
