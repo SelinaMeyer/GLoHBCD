@@ -21,3 +21,18 @@ A description of the labels used for annotation can be found [here](Info/Annotat
 
 In the Experiments folder! To execute, you will need the files produced in Preprocessing.ipynb.
 There are three scripts, one for each annotation level (Label, Sublabel and Valence). They all do roughly the same but take different data-files.
+
+## Citation
+
+A paper around this dataset and experiments has been accepted at LREC2022. The paper will be linked here and the reference will be updated once the proceedings are published. For now, when using the dataset please cite:
+
+@inproceedings{meyer-2022-globcd,
+    title = „GLoHBCD: A Naturalistic German Dataset for Language of Health Behaviour Change on Online Support Forums",
+    author = "Meyer, Selina  and
+      Elsweiler, David",
+    booktitle = "To appear in Proceedings of the 13th Language Resources and Evaluation Conference",
+    month = June,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+}
