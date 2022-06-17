@@ -28,15 +28,14 @@ A paper around this dataset and experiments has been accepted at LREC2022. The p
 
 
     @InProceedings{meyer-elsweiler:2022:LREC,
-  author    = {Meyer, Selina  and  Elsweiler, David},
-  title     = {GLoHBCD: A Naturalistic German Dataset for Language of Health Behaviour Change on Online Support Forums},
-  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
-  month          = {June},
-  year           = {2022},
-  address        = {Marseille, France},
-  publisher      = {European Language Resources Association},
-  pages     = {2226--2235},
-  abstract  = {Health behaviour change is a difficult and prolonged process that requires sustained motivation and determination. Conversa- tional agents have shown promise in supporting the change process in the past. One therapy approach that facilitates change and has been used as a framework for conversational agents is motivational interviewing. However, existing implementations of this therapy approach lack the deep understanding of user utterances that is essential to the spirit of motivational interviewing. To address this lack of understanding, we introduce the GLoHBCD, a German dataset of naturalistic language around health behaviour change. Data was sourced from a popular German weight loss forum and annotated using theoretically grounded motivational interviewing categories. We describe the process of dataset construction and present evaluation results. Initial experiments suggest a potential for broad applicability of the data and the resulting classifiers across different behaviour change domains. We make code to replicate the dataset and experiments available on Github.},
-  url       = {https://aclanthology.org/2022.lrec-1.239}
+    author    = {Meyer, Selina  and  Elsweiler, David},
+    title     = {GLoHBCD: A Naturalistic German Dataset for Language of Health Behaviour Change on Online Support Forums},
+    booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+    month          = {June},
+    year           = {2022},
+    address        = {Marseille, France},
+    publisher      = {European Language Resources Association},
+    pages     = {2226--2235},
+    url       = {https://aclanthology.org/2022.lrec-1.239}
 }
 
