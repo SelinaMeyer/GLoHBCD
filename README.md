@@ -37,6 +37,5 @@ A paper around this dataset and experiments has been accepted at LREC2022. The p
     address        = {Marseille, France},
     publisher      = {European Language Resources Association},
     pages     = {2226--2235},
-    url       = {https://aclanthology.org/2022.lrec-1.239}
-}
+    url       = {https://aclanthology.org/2022.lrec-1.239}}
 
